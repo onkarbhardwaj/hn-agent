@@ -1,0 +1,2 @@
+- Install packages from `package.json`
+- Run with `npm start`

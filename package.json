@@ -1,0 +1,16 @@
+{
+  "name": "hn-agent",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/main.ts"
+  },
+  "dependencies": {
+    "bee-agent-framework": "^0.0.34",
+    "groq-sdk": "^0.7.0",
+    "openai": "^4.28.0",
+    "string-strip-html": "^13.4.3",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3",
+    "zod": "^3.22.4"
+  }
+}
